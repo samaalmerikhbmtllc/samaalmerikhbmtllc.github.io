@@ -1,0 +1,49 @@
+--- 
+layout: page
+title: Certificates
+imageurl: assets/PHOTOS/Products_Asset/Backgroundimage/certificatemain.jpg
+images:
+- image_path: assets/PHOTOS/Certifi_Asset/1.png
+- image_path: assets/PHOTOS/Certifi_Asset/2.png
+- image_path: assets/PHOTOS/Certifi_Asset/3.png
+- image_path: assets/PHOTOS/Certifi_Asset/4.png
+- image_path: assets/PHOTOS/Certifi_Asset/5.png
+- image_path: assets/PHOTOS/Certifi_Asset/6.png
+- image_path: assets/PHOTOS/Certifi_Asset/7.png
+- image_path: assets/PHOTOS/Certifi_Asset/8.png
+- image_path: assets/PHOTOS/Certifi_Asset/9.jpg
+- image_path: assets/PHOTOS/Certifi_Asset/10.jpg
+- image_path: assets/PHOTOS/Certifi_Asset/11.jpg
+- image_path: assets/PHOTOS/Certifi_Asset/12.jpg
+- image_path: assets/PHOTOS/Certifi_Asset/13.jpg
+--- 
+<main>
+    
+    <section class="porfolio-grid-area pt-125 pb-100">
+        <div class="container">
+               
+            <div class="row grid">
+                    
+                {% for image in page.images %} 
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 grid-item cat1 cat3">
+                        <div class="portfolis mb-30">
+                            <div class="portfolis__thumb">
+                                <img src="{{ image.image_path }}" alt="">
+                            </div>
+                            <div class="portfolis__content pos-abl">
+                                <a class="popup-image plus-icon mb-30" href="{{ image.image_path }}"><i class="far fa-plus"></i></a>
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                {% endfor %}
+                   
+                   
+            </div>
+        </div>
+    </section>
+
+</main>
+   

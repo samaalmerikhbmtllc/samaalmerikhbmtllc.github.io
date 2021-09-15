@@ -1,0 +1,50 @@
+--- 
+layout: page
+title: Hardware Products
+imageurl: assets/PHOTOS/Products_Asset/Backgroundimage/hardwaremain.jpg
+images:
+- image_path: assets/PHOTOS/NOImage.png
+  image_url: #
+  image_title: SAFETY PRODUCTS
+--- 
+
+    <main>
+
+      
+
+        <section class="blog-grid-area pt-125 pb-130">
+            <div class="container">
+                              
+                <div class="row">
+                    {% for image in page.images %} 
+                 
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="blog blog-grid mb-30">
+                            <div class="blog__thumb pos-rel">
+                                <img src="{{ image.image_path }}" alt="">
+                                <a href="{{ image.image_url }}" class="theme_btn theme_btn2 position_btn">View Products <i
+                                    class="far fa-long-arrow-right"></i></a>
+                            </div>
+                            <div class="blog__content3">
+                                <h5><a class="semi-title mb-25 pb-35" href="{{ image.image_url }}">{{ image.image_title }}</a></h5>
+                               
+                            </div>
+                        </div>
+
+                    </div>
+                    {% endfor %}
+
+                 
+                 
+                       
+                </div>
+            </div>
+        </section>
+
+        <!--page-title-area end-->
+        <!--porfolio-grid-area start-->
+       
+      
+        
+
+    </main>
