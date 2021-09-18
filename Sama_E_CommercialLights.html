@@ -1,0 +1,100 @@
+--- 
+layout: page
+title: BATHROOM ACCESSORIES
+imageurl: assets/PHOTOS/Products_Asset/Backgroundimage/BathroomAccessoriesMain.jpg
+images:
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/solarflood.png
+  image_title: Solar Flood Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/SOLARFLOOD.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/solarstreet.png
+  image_title: Solar Street Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDSOLARSTREET.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/solarspike.png
+  image_title: Solar Spike & Stand Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/SOLARSPIKE.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/solarwall.png
+  image_title: Solar Wall Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/SOLARWALL.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledbulb.png
+  image_title: LED Bulb Tube
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDBULB.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledstreet.png
+  image_title: LED Street Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDSTREET.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledstrip.png
+  image_title: LED Strip 
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDSTRIP.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledcup.png
+  image_title: LED Cup
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDCUP.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/leddown.png
+  image_title: LED Down Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDDOWN.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledtrack.png
+  image_title: LED Track Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDTRACK.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledoutdoorwall.png
+  image_title: LED Outdoor Wall Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDOUTDOORWALL.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledhighbay.png
+  image_title: LED High Bay
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDHHIGHBAY.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledspot.png
+  image_title: LED Spot Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDSPOT.pg
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledpanel.png
+  image_title: LED Panel Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDPANEL.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/floodlight.png
+  image_title: LED Outdoor Flood Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDOUTDOORFLOOD.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/other.png
+  image_title: Others
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDOTTHER.png
+
+--- 
+    <main>
+       
+       
+        <section class="porfolio-grid-area pt-125 pb-100">
+            <div class="container">
+                           
+                <div class="row grid">
+                   
+                    {% for image in page.images %}
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 grid-item cat1 cat3">
+                        <div class="portfolis mb-30">
+                            <div class="portfolis__thumb">
+                                <img src="{{ image.image_path }}" alt="" width="370" height="270">
+                            </div>
+                            <div class="portfolis__content pos-abl">
+                                <a class="popup-image plus-icon mb-30" href="{{ image.image_zoom }}"><i class="far fa-plus"></i></a>
+                                <h5 class="semi-title"><a href="#">{{ image.image_title }}</a></h5>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                   
+                  
+                </div>
+            </div>
+        </section>
+
+    </main>
+    
