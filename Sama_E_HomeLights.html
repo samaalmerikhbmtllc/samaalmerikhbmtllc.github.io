@@ -1,0 +1,63 @@
+--- 
+layout: page
+title: HOME LIGHTS
+imageurl: assets/PHOTOS/Products_Asset/Backgroundimage/electricalmain.jpg
+images:
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/ledceilingfan.png
+  image_title: LED Ceiling Fan Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/Lists/LEDCEILLINGFAN.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Commercial Light/dinninghall1.png
+  image_title: The Dinning-Hall Pendant Lamp Cover
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/DINNINGHALL.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ceillinglight1.png
+  image_title: Ceilling Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/CELLINGLIGHT.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ledshapedbulb1.png
+  image_title: LED Shaped Bulb
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/LEDSHAPEDBULB.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/pendantlights1.png
+  image_title: Pendant Lights
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/PENDNTLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/tablelamp1.png
+  image_title: Table Lamp
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/TABLELAMP.png
+
+- image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/wallmirrorlights1.png
+  image_title: Wall & Mirror Light
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+--- 
+    <main>
+       
+       
+        <section class="porfolio-grid-area pt-125 pb-100">
+            <div class="container">
+                           
+                <div class="row grid">
+                   
+                    {% for image in page.images %}
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 grid-item cat1 cat3">
+                        <div class="portfolis mb-30">
+                            <div class="portfolis__thumb">
+                                <img src="{{ image.image_path }}" alt="" width="370" height="270">
+                            </div>
+                            <div class="portfolis__content pos-abl">
+                                <a class="popup-image plus-icon mb-30" href="{{ image.image_zoom }}"><i class="far fa-plus"></i></a>
+                                <h5 class="semi-title"><a href="#">{{ image.image_title }}</a></h5>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                   
+                  
+                </div>
+            </div>
+        </section>
+
+    </main>
+    
