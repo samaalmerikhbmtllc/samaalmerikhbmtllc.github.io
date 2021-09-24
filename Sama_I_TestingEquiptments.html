@@ -1,0 +1,35 @@
+--- 
+layout: page
+title: Testing Equiptments
+imageurl: assets/PHOTOS/Products_Asset/Backgroundimage/electricalmain.jpg
+--- 
+    <main>
+       
+       
+        <section class="porfolio-grid-area pt-125 pb-100">
+            <div class="container">
+                           
+                <div class="row grid">
+                   
+                  {% for image in site.data.gallery.testingequiptments %}
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 grid-item cat1 cat3">
+                        <div class="portfolis mb-30">
+                            <div class="portfolis__thumb">
+                                <img src="{{ image.image_path }}" alt="" width="370" height="270">
+                            </div>
+                            <div class="portfolis__content pos-abl">
+                                <a class="popup-image plus-icon mb-30" href="{{ image.image_zoom }}"><i class="far fa-plus"></i></a>
+                                <h5 class="semi-title"><a href="#">{{ image.image_title }}</a></h5>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                   
+                  
+                </div>
+            </div>
+        </section>
+
+    </main>
+    

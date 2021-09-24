@@ -93,3 +93,177 @@ homelights:
 - image_path: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/wallmirrorlights1.png
   image_title: Wall & Mirror Light
   image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+testingequiptments:
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Indicator
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/LEDCEILLINGFAN.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Testing Tools Accessories
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/DINNINGHALL.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Fever Detection
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/CELLINGLIGHT.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Water Quality Meters
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ledshapedbulb1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Electrical Testers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/PENDNTLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: High Temperature Thermometers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/tablelamp1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Digital Multimeters
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Solar Industry Tools
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ledshapedbulb1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Digital Thermometers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/PENDNTLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Data Cable & Network Testers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Clamp Meters
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ledshapedbulb1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Underground Pipe & Cable Locators
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/tablelamp1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Thermal Imagers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Food Safety Testers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ledshapedbulb1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Weighing Scales and Balances
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/PENDNTLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: HVAC Testing Equipment
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/tablelamp1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Environmental Measurement
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Field Communicators
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/ledshapedbulb1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Power and Energy Loggers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/PENDNTLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Calibration Tools
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/tablelamp1.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Power Quality Analyzers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Portable Oscilloscopes
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Vibration and Alignment
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Battery Analyzers
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Intrinsically Safe Tools
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Lab Instruments
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Gas Detection
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+  image_title: Specialty Meters
+  image_zoom: assets/PHOTOS/Products_Asset/Electrical_Asset/Home Light/Lists/WAALMIRRORLIGHTS.png
+
+powertools:
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/mixer.png
+  image_title: Mixers & Paddles
+  image_url: https://drive.google.com/drive/folders/1H_py6BAaB3-OCOB2fnqXq4EckXBj8asp?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/hotglueing.png
+  image_title: Hot Glueing
+  image_url: https://drive.google.com/drive/folders/1HzcTeTMlI1rkID1yDISfVV44HfXNSD9L?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/cordlesstools.png
+  image_title: Cordless Tools
+  image_url: https://drive.google.com/drive/folders/1I3XaEOkzSfyMQP1hp0n8s8TKdg-QUJll?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/rotary.png
+  image_title: Rotary and Demolition Hammers
+  image_url: https://drive.google.com/drive/folders/1JQhIZGTBbkkiddifwC8bLpd0IQgKvIhe?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/grinder.png
+  image_title: Grinders
+  image_url: https://drive.google.com/drive/folders/1KXktpln2jiewXQpkMUbmkSPtPaZ-TS-G?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/drill.png
+  image_title: Drills and Fastening Tools
+  image_url: https://drive.google.com/drive/folders/1MvqeK7eAYcdTlzL40EJdGQekakY49QtV?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/impactdriver.png
+  image_title: Impact Drivers And Wrenches
+  image_url: https://drive.google.com/drive/folders/1OnAb-b5MisycIFzKWDjop_hG2k8pQ8T8?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/electricsaws.png
+  image_title: Electric Saws
+  image_url: https://drive.google.com/drive/folders/1PhyjIc42FQHPbZB7JsrTjlEUyTGWoFoh?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/wood.png
+  image_title: Wood Working Tools
+  image_url: https://drive.google.com/drive/folders/1VMYBHUdFpZUxYqwa00CpeDHT_I_pc22a?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/cordlessbattery.png
+  image_title: Cordless Battery & Chargers
+  image_url: https://drive.google.com/drive/folders/1ZfFZVX1x6WOmNmu3frsemPiWkLDnkamA?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/masonrysaws.png
+  image_title: Masonry Saws
+  image_url: https://drive.google.com/drive/folders/1_g_yP9LX-eXncgde1a563k7cwpdorVI0?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/floorsaws.png
+  image_title: Floor Saws
+  image_url: https://drive.google.com/drive/folders/1a4kBhnK4MmN5wltnD6afgRA2brRsVFJm?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/floorgrinders.png
+  image_title: Floor Grinders
+  image_url: https://drive.google.com/drive/folders/1aKwhDUUDDfcCe15D4jyxlE_jqhF0PaxU?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/powercut.png
+  image_title: Power Cutters
+  image_url: https://drive.google.com/drive/folders/1agFhbFdBch9E33JHTAebcrBgtOPsfaXJ?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/dustmana.png
+  image_title: Dust Management
+  image_url: https://drive.google.com/drive/folders/1aqezca1tSLT9_19nClvrmd25rGznqDAT?usp=sharing
