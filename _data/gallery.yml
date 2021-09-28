@@ -103,9 +103,9 @@ testingequiptments:
   image_title: Testing Tools Accessories
   image_url: https://drive.google.com/drive/folders/1bvYNO8zS4TuMCcTWDFCUWxVK5MJX-8BR?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/fever.png
   image_title: Fever Detection
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/15d_kloI9eGigt2hrfnDrA2nZjoKXTYV3?usp=sharing
 
 - image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/waterquality.png
   image_title: Water Quality Meters
@@ -115,97 +115,81 @@ testingequiptments:
   image_title: Electrical Testers
   image_url: https://drive.google.com/drive/folders/1oKOgzZskOdmtS-EF2pcu2ioQLVcp9F5C?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/high.png
   image_title: High Temperature Thermometers
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/16J1JRQE9hnbNiD26u_5GQagFck32opvD?usp=sharing
 
 - image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/digitalmulti.png
   image_title: Digital Multimeters
   image_url: https://drive.google.com/drive/folders/1oKj4O6ypgtxqi11rMOf22ArVXvJiy0HR?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/solar.png
   image_title: Solar Industry Tools
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/17ijzf_ITUiW_Aq9h2BTyS0ibMGF_NXPE?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/digitaltherrmo.png
   image_title: Digital Thermometers
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/18B3H2oIuMa8QhODTdP_zLXBRgFWSljZE?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Data Cable & Network Testers
-  image_url: 
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/datacable.png
+  image_title: Data Cable &<br>Network Testers
+  image_url: https://drive.google.com/drive/folders/1CHOtEjkWkpooL_PLftyRW8vztFRvrSew?usp=sharing
 
 - image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/clamp.png
   image_title: Clamp Meters
   image_url: https://drive.google.com/drive/folders/11A01QsjvU7UOc50pDy3IW8jUmvmjRa_s?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Underground Pipe & Cable Locators
-  image_url: 
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/under.png
+  image_title: Underground Pipe & <br>Cable Locators
+  image_url: https://drive.google.com/drive/folders/1CcckdMqC9WAY6zkfKngM7lRV3C2rJafY?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/thermal.png
   image_title: Thermal Imagers
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1EukLiSWnW6OVtRfOF7E1XEjx39pRAhP4?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/food.png
   image_title: Food Safety Testers
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1H4iUv5KICu7IKTY92B3q1_Cbs1iPodyB?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Weighing Scales and Balances
-  image_url: 
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/weigh.png
+  image_title: Weighing Scales and <br>Balances
+  image_url: https://drive.google.com/drive/folders/1HLjWPxwZCIFCK20oF3TLA7Ix9boCd14d?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: HVAC Testing Equipment
-  image_url: 
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/environ.png
+  image_title: Environmental <br>Measurement
+  image_url: https://drive.google.com/drive/folders/1coutMvmtEhqByzngkF6qCdxyquaoYnjL?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Environmental Measurement
-  image_url: 
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/power.png
+  image_title: Power and Energy <br>Loggers
+  image_url: https://drive.google.com/drive/folders/1_aYOsONHtytk87QFdjpiKWuO2P83B4bb?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Field Communicators
-  image_url: 
-
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Power and Energy Loggers
-  image_url: 
-
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/calibrationtool.png
   image_title: Calibration Tools
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1TDSmJjn5NPQ4wgdghV7NJCc05yc_bxxb?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/poweran.png
   image_title: Power Quality Analyzers
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1cxc-DmiuL8RTdAfh_weJCGYGTkZx7Iso?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/portable.png
   image_title: Portable Oscilloscopes
-  image_url: 
+  image_url:  https://drive.google.com/drive/folders/1NO7Ozbs47gt5sr0pJzQUF-wNjIBKaP3L?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/vibration.png
   image_title: Vibration and Alignment
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1KG1jCv65L9Lfyb26RAigHZIGYRsFjjT2?usp=sharing
 
 - image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/batteryanalyse.png
   image_title: Battery Analyzers
   image_url: https://drive.google.com/drive/folders/1twqJm7DC4oGx2MRu8MBZRvmRVs2Av9V0?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/safetool.png
   image_title: Intrinsically Safe Tools
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1SXDX_nT_oElMjVmkhDEYYbEHjt-iBgcd?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Lab Instruments
-  image_url: 
-
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
+- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/gas.png
   image_title: Gas Detection
-  image_url: 
-
-- image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/TestingEquiptments/NoImage.png
-  image_title: Specialty Meters
-  image_url: 
+  image_url: https://drive.google.com/drive/folders/1Rj1tw3bQFwaS19tmOThdh8HiWnGKu8y8?usp=sharing
 
 powertools:
 - image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/mixer.png
