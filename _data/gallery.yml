@@ -296,7 +296,7 @@ p_plumbing:
   image_title: WATER METERS
   image_url: https://drive.google.com/drive/folders/1w4GMZE8agaVMp9gdrYvM9xsuPbLi-Dia?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/.png
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/waterheater.png
   image_title: WATER HEATERS
   image_url: https://drive.google.com/drive/folders/1ub3bxqtFDjzwi3CgoMQ09K4EMlq7Ho-S?usp=sharing
 
@@ -324,7 +324,7 @@ p_plumbing:
   image_title: CLAMPS
   image_url: https://drive.google.com/drive/folders/1gzNtMXoet7CItb4jxxnNbCHoSJTTMRnK?usp=sharing
 
-- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/.png
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/bath.png
   image_title: BATHROOM ACCESSORIES
   image_url: Sama_P_BathAccessories.html
 
