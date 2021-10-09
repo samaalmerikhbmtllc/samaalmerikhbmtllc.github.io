@@ -251,3 +251,81 @@ powertools:
 - image_path: assets/PHOTOS/Products_Asset/Industrial_Asset/PowerTools/dustmana.png
   image_title: Dust Management
   image_url: https://drive.google.com/drive/folders/1aqezca1tSLT9_19nClvrmd25rGznqDAT?usp=sharing
+
+
+p_bathroom:
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/bathtub.png
+  image_title: Bath Tub
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/set.png
+  image_title: Bathroom Accessories Set
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/shattaf.png
+  image_title: Shattaf
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/showertray.png
+  image_title: Shower Tray
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/ssgratings.png
+  image_title: SS Gratings
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/pvctrap.png
+  image_title: PVC Traps
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/pvcgratings.png
+  image_title: PVC Gratings
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/pvccoolercock.png
+  image_title: PVC Cooler Cock
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/pvccistern.png
+  image_title: PVC Cistern
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/mirror.png
+  image_title: Mirrors
+  
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Bath_Accessories/curtain.png
+  image_title: Shower Curtain
+
+p_plumbing:
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/WATERPUMP.png
+  image_title: WATER PUMPS & ACCESSORIES
+  image_url: https://drive.google.com/drive/folders/1xGUOHnk8utHFngQ74aR2g3KitOSx1MxG?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/WATERMETERS.png
+  image_title: WATER METERS
+  image_url: https://drive.google.com/drive/folders/1w4GMZE8agaVMp9gdrYvM9xsuPbLi-Dia?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/.png
+  image_title: WATER HEATERS
+  image_url: https://drive.google.com/drive/folders/1ub3bxqtFDjzwi3CgoMQ09K4EMlq7Ho-S?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/FILTER.png
+  image_title: WATER FILTERS
+  image_url: https://drive.google.com/drive/folders/1qx89sbx8RWmzz4Yh99Cv_IKxNRcTAoeg?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/KITCHEN.png
+  image_title: STAINLESS STEEL KITCHEN SINKS
+  image_url: https://drive.google.com/drive/folders/1pgW98hLaxLSFwrQETeALlvmhKKR49P2w?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/MANHOLECOVER.png
+  image_title: MANHOLE COVER
+  image_url: https://drive.google.com/drive/folders/1oInRKdWBOVWFB6aOyoEprhtM13RUmbRm?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/GARDENHOSE.png
+  image_title: GARDEN HOSE
+  image_url: https://drive.google.com/drive/folders/1lepWmsTthmfWwRsiXT9RvsREIglqOsXP?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/FLEXIBLES.png
+  image_title: FLEXIBLES
+  image_url: https://drive.google.com/drive/folders/1jJsAxDbLcoFsXJqtRXDkFfsyWfRecL6V?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/CLAMPS.png
+  image_title: CLAMPS
+  image_url: https://drive.google.com/drive/folders/1gzNtMXoet7CItb4jxxnNbCHoSJTTMRnK?usp=sharing
+
+- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Plumb/.png
+  image_title: BATHROOM ACCESSORIES
+  image_url: Sama_P_BathAccessories.html
+
+

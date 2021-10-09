@@ -2,52 +2,6 @@
 layout: page
 title: Plumbing & Irrigation
 imageurl: assets/PHOTOS/Products_Asset/Backgroundimage/plumbingmain.jpg
-images:
-- image_path: assets/PHOTOS/Products_Asset/Plumbing_Asset/Title_Asset/BathroomAccessories.png
-  image_url: Sama_P_BathAccessories.html
-  image_title: BATHROOM ACCESSORIES
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: PIPES & FITTINGS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: BRASS VALVES
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: TOILET & SANITARYWARES
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: CLAMPS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: GARDEN HOSE & FAUCETS COCKS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: MANHOLE COVERS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: www.google.com
-  image_title: STAINLESS STEEL KITCHEN SINKS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: SOLVENTS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: WATER FILTERS & HEATERS
-
-- image_path: assets/PHOTOS/NOImage.png
-  image_url: #
-  image_title: WATER METERS & PUMPS
-
-
 --- 
 
     <main>
@@ -58,7 +12,7 @@ images:
             <div class="container">
                               
                 <div class="row">
-                    {% for image in page.images %} 
+                  {% for image in site.data.gallery.p_plumbing %}
                  
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="blog blog-grid mb-30">
