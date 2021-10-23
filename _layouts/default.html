@@ -268,12 +268,14 @@
                 <div class="col-xl-4 col-lg-6 col-md-7">
                     <div class="footer__widget mb-30 ml-35">
                         <h5 class="bottom-line pos-rel mb-30 pb-25">Showroom</h5>
-                        <a class="instagram" target="_blank" href="assets/PHOTOS/Showroom/6.png">
-                            <div class="instagram__thumb">
-                                <img width="100" height="100" src="assets/PHOTOS/Showroom/1.png" alt="">
-                            </div> 
-                            
+                        
+                        {% for image in site.data.gallery.showroom %}
+                        <a class="instagram" href="{{ image.image_path }}">
+                         <img width="100" height="100" src="{{ image.image_path }}" alt="">                        
                         </a>
+
+                        {% endfor %}
+
                         <a class="instagram mr-10 ml-10 mb-10" target="_blank" href="assets/PHOTOS/Showroom/6.png">
                             <div class="instagram__thumb">
                                 <img width="100" height="100" src="assets/PHOTOS/Showroom/2.png" alt="">
@@ -286,24 +288,7 @@
                             </div> 
                             
                         </a>
-                        <a class="instagram" target="_blank" href="assets/PHOTOS/Showroom/6.png">
-                            <div class="instagram__thumb">
-                                <img width="100" height="100" src="assets/PHOTOS/Showroom/4.png" alt="">
-                            </div> 
-                            
-                        </a>
-                        <a class="instagram mr-10 ml-10" target="_blank" href="assets/PHOTOS/Showroom/6.png">
-                            <div class="instagram__thumb">
-                                <img width="100" height="100" src="assets/PHOTOS/Showroom/5.png" alt="">
-                            </div> 
-                           
-                        </a>
-                        <a class="instagram" target="_blank" href="assets/PHOTOS/Showroom/6.png">
-                            <div class="instagram__thumb">
-                                <img width="100" height="100" src="assets/PHOTOS/Showroom/6.png" alt="">
-                            </div> 
-                            
-                        </a>
+                        
                     </div>
                 </div>
             </div>
