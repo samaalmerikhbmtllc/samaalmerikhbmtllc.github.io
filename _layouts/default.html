@@ -270,10 +270,12 @@
                         <h5 class="bottom-line pos-rel mb-30 pb-25">Showroom</h5>
                         
                         {% for image in site.data.gallery.showroom %}
-                        <a class="instagram" href="{{ image.image_path }}">
-                         <img width="100" height="100" src="{{ image.image_path }}" alt="">                        
+                        <a class="instagram mr-10 ml-10 mb-10" href="{{ image.image_path }}">
+                            <div class="instagram__thumb">
+                                <img width="100" height="100" src="{{ image.image_path }}" alt="">
+                            </div> 
+                            
                         </a>
-
                         {% endfor %}
 
                         <a class="instagram mr-10 ml-10 mb-10" target="_blank" href="assets/PHOTOS/Showroom/6.png">
